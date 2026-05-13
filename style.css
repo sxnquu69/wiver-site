@@ -505,7 +505,7 @@ section::before{
 }
 @font-face{
    font-family:'Fontmy';
-    src:url('./fonts/Unbounded-Regular.ttf') format('truetype');
+    src:url('./fonts/Unbounded-Regular.ttf');
     font-weight:400;
     font-style:normal;
 }
